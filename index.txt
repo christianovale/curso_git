@@ -2,6 +2,6 @@ modificando a primeira linha do arquivo
 
 segunda linha do arquivo.
 
-Inserindo a terceira linha
+Inserindo a terceira linha.
 
 Inserindo a linha numero 4.
